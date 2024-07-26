@@ -5,6 +5,6 @@ type: page
 kind: page
 ---
 
-# Social Networks
+# Subsdcribe to the newsletter 🚀🚀🚀
 
-{{< verticalSocialIcons >}}
+{{< subscribe >}}
