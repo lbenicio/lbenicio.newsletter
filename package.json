@@ -46,9 +46,6 @@
         "dot-prop": "^8.0.2",
         "decompress": "^4.2.1",
         "braces": "^3.0.2",
-        "gulp-util": {
-            "lodash.template": "^4.5.0"
-        },
         "grunt-pagespeed": {
             "psi": "^4.1.0"
         }
