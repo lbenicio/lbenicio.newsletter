@@ -31,7 +31,7 @@ menus:
           weight: 40
           pre: fas fa-comment-alt
 params:
-    SubscribeURL: https://mail.lbenicio.dev/api/subscribers
+    SubscribeURL: https://api.mail.lbenicio.dev
     SubscribeListId: 3
     SubscribeMethod: POST
     analytics:
